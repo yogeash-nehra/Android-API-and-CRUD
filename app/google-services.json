@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967278520751",
+    "project_id": "assignment2excercise",
+    "storage_bucket": "assignment2excercise.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967278520751:android:c4d28e15e749d8bfdf275a",
+        "android_client_info": {
+          "package_name": "com.example.assignment2excercise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs2ZK_aFf9N3HlWGLM-0FSDMLjykpo_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
